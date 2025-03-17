@@ -24,10 +24,9 @@ Perfect for creating sequences of the same image side-by-side for auditorium pre
 ## Installation
 
 ### Option 1: Download the Release
-1. Go to the [Releases page](https://github.com/ahottois/FerreroPictureResizer/releases)
-2. Download the latest release ZIP file
-3. Extract the files to your preferred location
-4. Run setup.exe
+1. Download the latest release ZIP file
+2. Extract the files to your preferred location
+3. Run setup.exe
 
 ### Option 2: Build from Source
 1. Clone this repository:
